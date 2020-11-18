@@ -5,6 +5,7 @@ A very small ES（一个非常小的ES）
 
 1. 使用 sonic 实现，一个实用方便的话小型ES，不存储任何对象；
    https://github.com/valeriansaliou/sonic
+2. 这个也不错  https://github.com/toshi-search/Toshi
 
 
 ### Development Env (开发环境)
