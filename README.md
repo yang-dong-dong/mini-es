@@ -11,3 +11,7 @@ A very small ES（一个非常小的ES）
 ### Development Env (开发环境)
 
 1. docker run --rm -p 1491:1491 -v /你的路径/sonic.cfg:/etc/sonic.cfg -v /你的路径/store/:/usr/src/sonic/data/store/ valeriansaliou/sonic:v1.3.0
+
+
+### 其他
+https://github.com/meilisearch/MeiliSearch 这个搜索引擎也不错已支持中文
